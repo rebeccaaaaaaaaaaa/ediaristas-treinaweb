@@ -88,8 +88,7 @@ export default function Home() {
                                 <Button
                                     variant={'contained'}
                                     color={'secondary'}
-                                    sx={{ mt: 5 }}
-                                >
+                                    sx={{ mt: 5 }}>
                                     Contratar um profissional
                                 </Button>
                             </Container>
